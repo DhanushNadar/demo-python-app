@@ -8,7 +8,7 @@ HTML_PAGE = """
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Flask App 🚀</title>
+    <title>Flask App </title>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
